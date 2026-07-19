@@ -9,7 +9,7 @@ output format of an object detection system.
 > Text/shape overlay rendering
 
 ## Example
-I have taken by me while plane spotting, Deggendorf, Germany — 18 Jul 2026.
+This image was captured by me while plane spotting in Deggendorf, Germany, on 18 July 2026.
 
 ## Why this matters?
 This is the manual, hand-calculated version of what automated object detection 
